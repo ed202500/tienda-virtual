@@ -1,0 +1,46 @@
+<head>
+<meta charset="utf-8">
+<title>Tienda virtual</title>
+<style>
+    body {
+        background-color: #f2f5fa;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        margin: 0;
+        padding: 40px 20px;
+    }
+
+    table {
+        margin: 0 auto;
+        border-collapse: separate;
+        border-spacing: 20px;
+    }
+
+    td {
+        background-color: #fff;
+        border: 1px solid #ccc;
+        border-radius: 10px;
+        box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+        text-align: center;
+        padding: 15px;
+        width: 220px;
+    }
+
+    img {
+        width: 200px;
+        height: auto;
+        border-radius: 8px;
+        transition: transform 0.3s ease;
+    }
+
+    img:hover {
+        transform: scale(1.05);
+    }
+
+    h4 {
+        margin-top: 10px;
+        font-size: 1em;
+        color: #333;
+    }
+</style>
+</head>
+
